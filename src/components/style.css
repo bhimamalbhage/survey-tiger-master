@@ -1,0 +1,19 @@
+.question {
+  display: flex;
+  justify-content: center;
+  margin: 40px;
+}
+
+.btn {
+  display: inline-block;
+  cursor: default;
+  background-color: lightgray;
+  box-sizing: border-box;
+  margin: 0em;
+  font: 400 13.3333px Arial;
+  padding: 1px 6px;
+  border-width: 2px;
+  border-style: outset;
+  border-color: lightgray;
+  border-image: initial;
+}
